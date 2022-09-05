@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, World" | cat 0x02-hello_world
+echo "Hello, World" |cat 0x02-hello_world|pr
